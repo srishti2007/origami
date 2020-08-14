@@ -1,0 +1,13 @@
+p {
+    color:darkviolet
+}
+.header{
+    background-color: aquamarine;  
+    display: flex;
+    justify-content: space-evenly;
+}
+.paragraph{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
